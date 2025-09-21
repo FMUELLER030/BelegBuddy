@@ -2,7 +2,7 @@
 
 BelegBuddy ist eine einfache Web-App, mit der Studierende ihre studienbezogenen Ausgaben digital erfassen, organisieren und als CSV exportieren können – z. B. für Steuererklärung, BAföG oder Stipendien.
 
-👉 **Live-Demo:** https://FMUELLER030.github.io/Beleg-Buddy/
+👉 **Live-Demo:** [https://FMUELLER030.github.io/Beleg-Buddy/]
 
 ## 🚀 Features
 - 📸 Beleg-Upload mit Bildvorschau
